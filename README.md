@@ -6,6 +6,12 @@ The current episode, **The Vault Job**, follows Gordon through a bank break-in, 
 
 ![Gordon Mann gameplay preview](docs/images/gameplay-preview.png)
 
+## Download the Windows playtest
+
+**[Download for Windows (64-bit)](https://github.com/D00225745/gordon-mann-and-the-heist/releases/download/playtest-2026-11-19/Gordon-Mann-and-The-Heist-Windows-x64-2026-11-19.zip)** · [Release notes](https://github.com/D00225745/gordon-mann-and-the-heist/releases/tag/playtest-2026-11-19)
+
+Extract the entire ZIP, then run **Gordon Mann.exe** from the extracted folder. Unity is not required.
+
 ## Current state
 
 - Five decision scenes, thirteen failure scenes, and a successful escape.

@@ -2,6 +2,8 @@
 
 ## 2026-11-19
 
+- Published the downloadable Windows playtest with credits and licenses.
+
 - The Vault Job has a complete playable route through five decisions, thirteen failures, and the bus escape.
 - Added environment props, illustrated choice icons, comic lettering, and particle effects.
 - Updated interface sounds and selected action cues.
