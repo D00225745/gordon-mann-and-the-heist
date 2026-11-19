@@ -1,0 +1,207 @@
+[
+  {
+    "name": "furniture-kit",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "bytes": 5130729,
+    "sha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+    "license": "CC0"
+  },
+  {
+    "name": "city-kit-roads",
+    "source": "https://kenney.nl/assets/city-kit-roads",
+    "bytes": 2852289,
+    "sha256": "374a4552115cbd11b4ec5c930ee31a533562dc78a09af249a655d03f7ea3b959",
+    "license": "CC0"
+  },
+  {
+    "name": "city-kit-commercial",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "bytes": 4096974,
+    "sha256": "f8b09b081c2bb88bcc126e2dec1cb40fd0dad7e7e591b6c26aaefe96fb35276b",
+    "license": "CC0"
+  },
+  {
+    "name": "particle-pack",
+    "source": "https://kenney.nl/assets/particle-pack",
+    "bytes": 15001764,
+    "sha256": "b631d4b07f7002549fdcf155f01141ad482f79f3440e4e301eed49ce5f1d8958",
+    "license": "CC0"
+  },
+  {
+    "name": "impact-sounds",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "bytes": 800850,
+    "sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+    "license": "CC0"
+  },
+  {
+    "name": "sci-fi-sounds",
+    "source": "https://kenney.nl/assets/sci-fi-sounds",
+    "bytes": 5875104,
+    "sha256": "119340f351a5098ad814f78719438c0da355a9ce8a4c8a3af6a8d48aa3d49e04",
+    "license": "CC0"
+  },
+  {
+    "name": "interface-sounds",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "bytes": 834536,
+    "sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+    "license": "CC0"
+  },
+  {
+    "name": "input-prompts",
+    "source": "https://kenney.nl/assets/input-prompts",
+    "bytes": 5070075,
+    "sha256": "ac2fcf599080b0f3ba2d174c9474db6df1a0e96ff0662580e2da79a122ab78a1",
+    "license": "CC0"
+  },
+  {
+    "name": "Bangers-Regular.ttf",
+    "source": "https://github.com/google/fonts/tree/main/ofl/bangers",
+    "bytes": 93148,
+    "sha256": "4160a7311de9342674cce9160cde9fcbb30f48190397d86ff1b70b455af65824",
+    "license": "SIL OFL 1.1"
+  },
+  {
+    "name": "Bangers-OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/bangers",
+    "bytes": 4479,
+    "sha256": "630dd5a307c0657b094d324e069b390edf90182fe5003639e06c02a0e5769af7",
+    "license": "SIL OFL 1.1"
+  },
+  {
+    "name": "KayKit Furniture Bits Free",
+    "source": "https://kaylousberg.itch.io/furniture-bits",
+    "bytes": 3780559,
+    "sha256": "e6d75f34c5545486b5a8f45f86209dbd49092f3e77ae23011bdb87edab89e7e4",
+    "license": "CC0"
+  },
+  {
+    "name": "pizza-slice",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/pizza-slice.html",
+    "bytes": 6400,
+    "sha256": "8cfc63ba79ed2f757d0abdbb07e815fdae7e668ceff98261313c19ad34df365c",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "cannon",
+    "author": "lorc",
+    "source": "https://game-icons.net/1x1/lorc/cannon.html",
+    "bytes": 5102,
+    "sha256": "5a810b1638afe0e720c434138fa42e6206e2554d2139e975d2796c8cdef4f509",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Pogo Stick icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/bouncing-spring.html",
+    "sha256": "4ce32f120f255df127e536ae6674840f1d4ef10915f0b2e2483b956af25623ba",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Pizza Guy icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/pizza-slice.html",
+    "sha256": "8cfc63ba79ed2f757d0abdbb07e815fdae7e668ceff98261313c19ad34df365c",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Portal Jar icon",
+    "author": "lorc",
+    "source": "https://game-icons.net/1x1/lorc/portal.html",
+    "sha256": "2bec63fbed2778c725542d72282fff5dd40b9bea0d394f22b5c309d1f05fe635",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Cannonball icon",
+    "author": "lorc",
+    "source": "https://game-icons.net/1x1/lorc/cannon.html",
+    "sha256": "5a810b1638afe0e720c434138fa42e6206e2554d2139e975d2796c8cdef4f509",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Statue icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/stone-bust.html",
+    "sha256": "3d44c62ca659da6cff679284a3280e77f1f791020f0ca5f05fa498c430b9ea51",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Lullabies icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/musical-notes.html",
+    "sha256": "57425a10316df9724b43f13aeb5971f63d05c13d9f5c0a12a75e01cf4d9d2a09",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Rolling Chair icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/office-chair.html",
+    "sha256": "8c15cfc5e5c345af1708f40917dacfca257059f3640fedc9a24503e2029bbda9",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Fire Alarm icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/ringing-alarm.html",
+    "sha256": "60680a53f7a560513d94c68d7b5ec1a174c0eedc58b5fb3054ba01838c12a972",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Guess the PIN icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/keyboard.html",
+    "sha256": "6631b107f87701ca97ac53b1b99207d9097f12a9900b381ae7ad91af3a793932",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Knock Politely icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/door-ring-handle.html",
+    "sha256": "6e096fa46a83bddbd47f9a5a96d2105d4a472835c649372fcc14545fbcef9ecd",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Library Card icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/id-card.html",
+    "sha256": "246bd4b8d04c4cc6c54aafe218259d3af8e8e9d95158d2a4fe2a4888d944c663",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Mail Cart icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/shopping-cart.html",
+    "sha256": "4cac222c4e454ff2b2a8e1a9ece6c47c0d22f5059f90555bbb9724489d42f51b",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Unplug It icon",
+    "author": "sbed",
+    "source": "https://game-icons.net/1x1/sbed/unplugged.html",
+    "sha256": "3578a01af17d8756a1f2a764b37658211aeec65509a616b135fde71feccb9715",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Selfie First icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/photo-camera.html",
+    "sha256": "a8a7b4527dcd592cf60a87d4d52fbb3b161bf49ee5cae196740bf09f8a1ca77a",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Rocket Skates icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/roller-skate.html",
+    "sha256": "8cc14f9764c25010b966380d1d581c590d1354c5255791021d2c9e57617c92ef",
+    "license": "CC BY 3.0"
+  },
+  {
+    "name": "Night Bus icon",
+    "author": "delapouite",
+    "source": "https://game-icons.net/1x1/delapouite/bus.html",
+    "sha256": "f9591aff97cf5cde13d1d292b80d6ca35dfd4133609359796899331171060cc2",
+    "license": "CC BY 3.0"
+  }
+]

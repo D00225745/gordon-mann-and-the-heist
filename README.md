@@ -1,0 +1,36 @@
+# Gordon Mann and The Heist
+
+A branching comedy game made in Unity. Choose how Gordon tackles a heist, watch the consequences, and try another approach when things go wrong.
+
+The current episode, **The Vault Job**, follows Gordon through a bank break-in, its night guards, a security door, a laser hallway, and the getaway.
+
+![Gordon Mann gameplay preview](docs/images/gameplay-preview.png)
+
+## Current state
+
+- Five decision scenes, thirteen failure scenes, and a successful escape.
+- Animated sequences, sound effects, and a retry system.
+- An outcomes gallery that remembers discoveries.
+- Mouse and keyboard controls, controller navigation, and sound settings.
+
+The game is in development. The environments, character animation, and presentation are still being refined.
+
+## Open the project
+
+1. Open this folder in Unity **6000.5.4f1**.
+2. Choose **Tools → Scene Builder → Open Vault Job Blockout**.
+3. Press **Play**.
+
+Use the mouse to choose an option, or navigate with the arrow keys and confirm with Enter.
+
+To make a Windows build, choose **Tools → Scene Builder → Build Gordon Mann Windows Playtest** and select a new output folder.
+
+## Follow development
+
+Watch this repository for updates. The [changelog](CHANGELOG.md) records the current playable state; issues can be used for bug reports and feedback.
+
+## Assets and credits
+
+Third-party assets retain their own licenses. See the [asset credits](Assets/Game/ThirdParty/CREDITS.txt) and the license files alongside the imported assets.
+
+More detailed scene-editing notes are in [Assets/Game/README.md](Assets/Game/README.md). Scene rebuilding tools can overwrite manual edits, so edit the existing scenes when changing their sets or staging.

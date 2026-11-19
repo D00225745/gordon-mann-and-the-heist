@@ -1,0 +1,83 @@
+GORDON MANN - THE VAULT JOB
+Free asset credits
+Prepared 19 November 2026
+
+Kenney (kenney.nl) - Creative Commons Zero 1.0 (CC0).
+Furniture Kit; City Kit (Roads); City Kit (Commercial); Particle Pack;
+Impact Sounds; Sci-fi Sounds; Interface Sounds; Input Prompts.
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+KayKit Furniture Bits, FREE edition, by Kay Lousberg.
+Source: https://kaylousberg.itch.io/furniture-bits
+License: Creative Commons Zero 1.0 (CC0).
+
+Bangers font by The Bangers Project Authors.
+Source: https://github.com/google/fonts/tree/main/ofl/bangers
+License: SIL Open Font License 1.1. The complete OFL accompanies this game.
+
+Game-icons.net icons - Creative Commons Attribution 3.0.
+Source images are tinted and resized for the interface; no endorsement is implied.
+License: https://creativecommons.org/licenses/by/3.0/
+
+pizza-slice - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/pizza-slice.html
+cannon - lorc - CC BY 3.0
+https://game-icons.net/1x1/lorc/cannon.html
+Pogo Stick icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/bouncing-spring.html
+Portal Jar icon - lorc - CC BY 3.0
+https://game-icons.net/1x1/lorc/portal.html
+Statue icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/stone-bust.html
+Lullabies icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/musical-notes.html
+Rolling Chair icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/office-chair.html
+Fire Alarm icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/ringing-alarm.html
+Guess the PIN icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/keyboard.html
+Knock Politely icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/door-ring-handle.html
+Library Card icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/id-card.html
+Mail Cart icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/shopping-cart.html
+Unplug It icon - sbed - CC BY 3.0
+https://game-icons.net/1x1/sbed/unplugged.html
+Selfie First icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/photo-camera.html
+Rocket Skates icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/roller-skate.html
+Night Bus icon - delapouite - CC BY 3.0
+https://game-icons.net/1x1/delapouite/bus.html
+
+Original Floor Slide silhouette created for this project.
+
+Complete asset source URLs:
+https://game-icons.net/1x1/delapouite/bouncing-spring.html
+https://game-icons.net/1x1/delapouite/bus.html
+https://game-icons.net/1x1/delapouite/door-ring-handle.html
+https://game-icons.net/1x1/delapouite/id-card.html
+https://game-icons.net/1x1/delapouite/keyboard.html
+https://game-icons.net/1x1/delapouite/musical-notes.html
+https://game-icons.net/1x1/delapouite/office-chair.html
+https://game-icons.net/1x1/delapouite/photo-camera.html
+https://game-icons.net/1x1/delapouite/pizza-slice.html
+https://game-icons.net/1x1/delapouite/ringing-alarm.html
+https://game-icons.net/1x1/delapouite/roller-skate.html
+https://game-icons.net/1x1/delapouite/shopping-cart.html
+https://game-icons.net/1x1/delapouite/stone-bust.html
+https://game-icons.net/1x1/lorc/cannon.html
+https://game-icons.net/1x1/lorc/portal.html
+https://game-icons.net/1x1/sbed/unplugged.html
+https://github.com/google/fonts/tree/main/ofl/bangers
+https://kaylousberg.itch.io/furniture-bits
+https://kenney.nl/assets/city-kit-commercial
+https://kenney.nl/assets/city-kit-roads
+https://kenney.nl/assets/furniture-kit
+https://kenney.nl/assets/impact-sounds
+https://kenney.nl/assets/input-prompts
+https://kenney.nl/assets/interface-sounds
+https://kenney.nl/assets/particle-pack
+https://kenney.nl/assets/sci-fi-sounds

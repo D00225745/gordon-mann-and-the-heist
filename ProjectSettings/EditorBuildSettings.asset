@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/MainMenu.unity
+    guid: bf670c3b59bf7a94fa3d22ca60429d4f
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Choice_1.unity
+    guid: 2cbfb9a82fa1a8243a8e7cba6029a55b
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Choice_2.unity
+    guid: 97f91b3e48944e34ca59e1239eff47f3
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Choice_3.unity
+    guid: 58344439358cdb14ba169b7cf498aeff
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Choice_4.unity
+    guid: c1afa793615915a47bac6bf4208b9317
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Choice_5.unity
+    guid: e1605319ef5a31b48a661b52089c5f13
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Pogo.unity
+    guid: f5a654dc33f37dd44b9e6dae941e4dfd
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Pizza.unity
+    guid: 8044a1abadae7654e8f32827dc21cf24
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Cannon.unity
+    guid: 3e362419c08eb734dbbe3a16e82f211d
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Statue.unity
+    guid: 4a68a19828cb1ee438f2e42b3d86543c
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Chair.unity
+    guid: 113824a4ed07e634eb97937b92b904f7
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Alarm.unity
+    guid: 091b5fbb18f5ada4b90c29e146059bc8
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_PIN.unity
+    guid: 90426c8b8b0d07945a89c623e5313a7e
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Knock.unity
+    guid: dbaac3b760b73644b913ceff65a5eaef
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Cart.unity
+    guid: df3322dfbf2c9ea4f972b9205a7025fd
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Unplug.unity
+    guid: 8acb1378b0fcac1408a4ea7dab071353
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Selfie.unity
+    guid: cc12433ef7384df4fa6e4c935a22c33a
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Frozen.unity
+    guid: f1256f8a7484e034093874fe008e0b5c
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Fail_Skates.unity
+    guid: 91748a3165ed1e949aeee602d416514e
+  - enabled: 1
+    path: Assets/Game/Blockout/Scenes/Victory.unity
+    guid: 8d1e8a08b29fa024abbe7b5b4b369f79
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

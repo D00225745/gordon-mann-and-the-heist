@@ -1,0 +1,46 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Editor and IDE files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local project tools and coursework
+/.claude/
+/.codex/
+/.agents/
+/AGENTS.md
+/.presentation-build/
+/Presentation/
+/MayaRigging/
+/.vsconfig
+
+# Local credentials and diagnostic output
+.env
+.env.*
+!.env.example
+*.log
+*.stacktrace
+/sysinfo.txt
+/crashlytics-build.properties
