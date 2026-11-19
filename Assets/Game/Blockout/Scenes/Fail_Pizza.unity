@@ -3930,7 +3930,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Nobody orders a pepperoni at 2 AM. Suspicious.
+  m_Text: The bank is closed. The pizza doesn't help.
 --- !u!222 &1037413992
 CanvasRenderer:
   m_ObjectHideFlags: 0

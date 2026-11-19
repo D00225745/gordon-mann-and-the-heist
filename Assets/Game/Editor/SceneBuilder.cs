@@ -69,7 +69,7 @@ namespace GordonMann.EditorTools
 
             paths.Add(BuildChoiceScene("Choice_3", new Color(0.20f, 0.16f, 0.10f),
                 "THE SECURITY DOOR",
-                "A big steel door. A tiny red light. One shot at this.",
+                "A locked steel door blocks the way.",
                 new[]
                 {
                     new Choice { label = "Guess the PIN",  targetScene = "Fail_PIN" },
@@ -98,7 +98,7 @@ namespace GordonMann.EditorTools
                 }, button));
 
             paths.Add(BuildFailScene("Fail_Pogo", "Great height. No steering.", button));
-            paths.Add(BuildFailScene("Fail_Pizza", "Nobody orders a pepperoni at 2 AM. Suspicious.", button));
+            paths.Add(BuildFailScene("Fail_Pizza", "The bank is closed. The pizza doesn't help.", button));
             paths.Add(BuildFailScene("Fail_Cannon", "Cleared the bank. Cleared the block, actually.", button));
             paths.Add(BuildFailScene("Fail_Statue", "He held the pose. The sneeze didn't.", button));
             paths.Add(BuildFailScene("Fail_Chair", "Silent. Graceful. Straight into the fountain.", button));

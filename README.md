@@ -1,8 +1,8 @@
 # Gordon Mann and The Heist
 
-A branching comedy game made in Unity. Choose how Gordon tackles a heist, watch the consequences, and try another approach when things go wrong.
+A comedy heist game about getting Gordon into Blackwell Bank and back out again.
 
-The current episode, **The Vault Job**, follows Gordon through a bank break-in, its night guards, a security door, a laser hallway, and the getaway.
+In **The Vault Job**, bad plans get their own failure scenes. Retry returns you to the choice that caused the mess.
 
 ![Gordon Mann gameplay preview](docs/images/gameplay-preview.png)
 

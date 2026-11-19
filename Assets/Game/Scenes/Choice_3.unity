@@ -1394,7 +1394,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: A big steel door. A tiny red light. One shot at this.
+  m_Text: A locked steel door blocks the way.
 --- !u!222 &1655229455
 CanvasRenderer:
   m_ObjectHideFlags: 0
